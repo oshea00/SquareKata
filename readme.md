@@ -1,0 +1,1 @@
+open [notebook](SquareFind.ipynb)
